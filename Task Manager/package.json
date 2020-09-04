@@ -13,7 +13,7 @@
     "browser-sync": "^2.26.5",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "html5-simple-date-input-polyfill": "^1.1.0"
